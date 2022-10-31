@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Century 'MS Gothic';
+	
+}
+header {
+	background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../Anime\ Background2.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.title{
+	position: absolute;
+	float:left;
+	top: 47%;
+	left: 45%;
+	
+}
+.title h1{
+	color: rgb(254, 251, 251);
+	font-size:20px;
+	text-align: center;
+
+}
+.subtitle {
+	position: absolute;
+	float: right;
+	top: 15%;
+	right: 43%;
+}
+.subtitle p{
+	color: #fff;
+	font-size:20px;
+	text-align: center;
+
+
+
+
+}
+.logo1 img {
+	position:absolute;
+	float:right;
+	height:350px;
+	width:350px;
+	top: 30%;
+	right: 65%;
+	border-radius: 50%;
+    border: 2px solid #fff;
+}

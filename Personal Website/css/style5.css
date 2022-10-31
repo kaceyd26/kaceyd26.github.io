@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Century 'MS Gothic';
+	
+}
+header {
+	background-image: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../Anime\ Background5.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+
+
+}
+.title{
+	position: absolute;
+	float:left;
+	top: 15%;
+	left: 45%;
+	
+}
+.title h1{
+	color: rgb(254, 251, 251);
+	font-size:20px;
+	text-align: center;
+
+}
+.subtitle {
+	position: absolute;
+	float: left;
+	top: 35%;
+	left: 7%;
+}
+.subtitle p{
+	color: #fff;
+	font-size:10px;
+	text-align: center;
+
+
+
+
+}
+.subtitle1 {
+	position: absolute;
+	float: left;
+	top: 35%;
+	left: 37%;
+}
+.subtitle1 p{
+	color: #fff;
+	font-size:10px;
+	text-align: center;
+}
+.subtitle2 {
+	position: absolute;
+	float: left;
+	top: 35%;
+	left: 67%;
+}
+.subtitle2 p{
+	color: #fff;
+	font-size:10px;
+	text-align: center;
+}
+.logo1 img {
+	position:absolute;
+	float:right;
+	height:170px;
+	width:170px;
+	top: 55%;
+	right: 73%;
+	border-radius: 50%;
+    border: 2px solid #fff;
+}
+.logo2 img {
+	position:absolute;
+	float:right;
+	height:170px;
+	width:170px;
+	top: 55%;
+	right: 43%;
+	border-radius: 50%;
+    border: 2px solid #fff;
+}
+.logo3 img {
+	position:absolute;
+	float:right;
+	height:170px;
+	width:170px;
+	top: 55%;
+	right: 13%;
+	border-radius: 50%;
+    border: 2px solid #fff;
+}
